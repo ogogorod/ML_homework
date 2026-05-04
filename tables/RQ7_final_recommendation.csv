@@ -1,5 +1,0 @@
-Area,Finding,Practical implication
-Predictive performance,"Best model: Random Forest; MAE=73.69, RMSE=109.91, R2=0.117","The model can support approximate pricing, but should not replace host judgement."
-Interpretability,"Top drivers include: booking_lead_time_avg, min_nights_avg, country_United Kingdom, length_of_stay_avg, vacant_days",Hosts and analysts can use important factors to understand pricing drivers.
-Deployment constraints,"Performance depends on clean input data, city coverage, and stable market conditions.",A deployed model should be monitored and retrained when market conditions change.
-Final recommendation,"Use ML as a decision-support tool for suggested price ranges, not as a fully automated pricing authority.","Combine predictions with local market knowledge, seasonality, and host strategy."
