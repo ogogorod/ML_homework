@@ -63,4 +63,4 @@ See `requirements.txt` for required Python libraries.
 ---
 
 ## Author
-Ekaterina Balabina
+Oleg Rublevskii
