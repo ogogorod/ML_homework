@@ -1,0 +1,17 @@
+dropped_column
+listing_id
+cover_photo_url
+host_id
+ttm_revenue
+ttm_revenue_native
+ttm_avg_rate
+ttm_avg_rate_native
+l90d_revenue
+l90d_revenue_native
+l90d_avg_rate
+l90d_avg_rate_native
+revenue
+rate_avg
+native_booked_rate_avg
+native_rate_avg
+native_revenue
