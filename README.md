@@ -9,7 +9,7 @@ The goal is to evaluate different models, understand the impact of preprocessing
 
 ## Dataset
 - Source: Kaggle Airbnb Europe dataset  
-- Link: INSERT YOUR DATASET LINK HERE  
+- Link: https://www.kaggle.com/datasets/jasonairroi/airbnb-market-data-europe
 - Task: Regression  
 - Target variable: `booked_rate_avg`
 
